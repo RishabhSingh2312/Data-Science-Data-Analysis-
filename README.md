@@ -123,7 +123,6 @@ the review page/result page.
 
 - Also I have Tried to dump the fetched details into a MongoDB database.
 
-**Overview**
-![Alt text](1.png)
-![Alt text](2.png)
-![Alt text]("C:\Users\risha\OneDrive\Pictures\Screenshots\Screenshot 2023-03-26 000402.png")
+   **Overview**:
+
+    Go Check: [Click](https://www.linkedin.com/posts/rishabh-singh-37920526b_datascience-project-python-activity-7045474341173501952-dNv-?utm_source=share&utm_medium=member_desktop)
