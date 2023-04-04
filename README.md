@@ -1,13 +1,14 @@
 # Data Science MAsters (Data Aaylyst)
-     1. Working With Ptyhon
-     2. Exploring Pandas dataframe
-     3. Working with numpy
-     4. Visualization (matplotlib, seaborn, plotly)
+1. Working With Ptyhon
+2. Exploring Pandas dataframe
+3. Working with numpy
+4. Visualization (matplotlib, seaborn, plotly)
      
 
 # Scrapping IMDB movies (Top 250) 
-     Scrapping IMDB website to collect the informations like ratings, movie name, movie year, 
-     movie rankings of top 250 by IMDB and dumping these feature in an excel sheet.
+- Scrapping IMDB website to collect the informations like ratings, movie name, movie year, 
+- movie rankings of top 250 by IMDB and dumping these feature in an excel sheet.
+- Click: [Check](Scapping_IMDB_MOVIES)
      
 # Lets understand the concept of EDA in very simple language, so when ever a data analyst gets a data set, 
 the main role is to find out the insights and then help the product manager or sales maanger of the particular company 
@@ -25,16 +26,16 @@ conclusions for company that ll help them in decision making.
   * feature extracton
 
 # EDA in 5 minutes 
-     Exploratory data analysis of any data set within just few minutes by help of 
+- Exploratory data analysis of any data set within just few minutes by help of 
      Pandas profiling report, and saving the report into .html
      
   visit here: Visit here [toview](https://drive.google.com/drive/u/0/folders/1XLHedq8OwXl-LS9ugY4f0s-jj-gw6m9m) Report.
 
 
 # EDA OF US-Accidents data with 3M data points
-     The main aim behind analysing this huge data set is to get hand on industry level expirence of how 
-     working on such a big data set looks like and what are the real time challenges faced by an data anylyst in order to do that,
-     by using various feature engineerng & statistical enfineering techniques inorder to handel unbalanced data by 
+The main aim behind analysing this huge data set is to get hand on industry level expirence of how 
+working on such a big data set looks like and what are the real time challenges faced by an data anylyst in order to do that,
+by using various feature engineerng & statistical enfineering techniques inorder to handel unbalanced data by 
      upsampling technique preventing our ML model getting baised, and handling missing values to avoid 
      loss of huge amount of data by varoius imputation techniques.
      At the end giving the ensights of the features analysed using graphs and summury-conclusions.
@@ -110,6 +111,20 @@ The data consists of 8 column and 1000 rows.
  * Check statistics of data set
  * Check various categories present in the different categorical column
 
+# Web scraping-Flipkart:
+Coming up with my 1st Data Science Project 😀 "Web Scraping" In Python(Core App) & Flask(API).
 
+- Very first let me brief you about web scarping, It is the process of extracting data from any websites using automated tools or software. The data is usually in the form of HTML, which is the markup language used to create websites. Web scraping involves parsing the HTML code of a website and then extracting specific data from it. The data can be structured or unstructured, and it can include text, images, videos, links, and other types of content.
 
+- In this project I have scraped Flipkart for the customers feedback on various products such as rating, comments, product name, customer name & comment heading.
+
+- The idea behind this project is to extracting the raw data(that is not human friendly to understand) by inspecting the website stepwise, and then beautifying it by using python Beautiful soup, and then structuring the collected data into a list to display in table format at
+the review page/result page.
+
+- Also I have Tried to dump the fetched details into a MongoDB database.
+
+**Overview**
+![Alt text](Screenshot%202023-03-26%20000402.png)
+![Alt text](Screenshot%202023-03-26%20000752.png)
       
+![Alt text](Screenshot%202023-03-26%20000836.png)
