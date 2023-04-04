@@ -124,7 +124,6 @@ the review page/result page.
 - Also I have Tried to dump the fetched details into a MongoDB database.
 
 **Overview**
-![Alt text](Screenshot%202023-03-26%20000402.png)
-![Alt text](Screenshot%202023-03-26%20000752.png)
-      
-![Alt text](Screenshot%202023-03-26%20000836.png)
+![Alt text](1.png)
+![Alt text](2.png)
+![Alt text](3.png)
